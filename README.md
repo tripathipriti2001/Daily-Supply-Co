@@ -3,10 +3,6 @@
 This project showcases a powerful and feature-rich web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. The application offers a seamless user experience with functionalities like product search, order processing, and more.
 
 
-## Live Preview
-
-https://food-mart-theta.vercel.app/
-
 ## Tech Stack
 
 **Frontend:**
